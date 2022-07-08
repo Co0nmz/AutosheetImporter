@@ -1,6 +1,6 @@
 const sheetID = '1tjTmJcMOcCjkz06b96qScdGB_UdisCejRJS69AVy21c';
 const base = `https://docs.google.com/spreadsheets/d/${sheetID}/gviz/tq?`;
-const sheetName = 'GM Cheat Sheet';
+const sheetName = 'Main Sheet';
 let qu = 'Select G WHERE G > 1';
 qu = 'Select * WHERE B ="Svekis"';
 qu = 'Select * WHERE A contains "Jo"';
