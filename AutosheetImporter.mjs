@@ -1,4 +1,4 @@
-const sheetID = '10CGcL_QK5aUOtLxtUNgEjSzz12iBmh4zmW7_nXYv40k';
+const sheetID = '1tjTmJcMOcCjkz06b96qScdGB_UdisCejRJS69AVy21c';
 const base = `https://docs.google.com/spreadsheets/d/${sheetID}/gviz/tq?`;
 const sheetName = 'GM Cheat Sheet';
 let qu = 'Select G WHERE G > 1';
